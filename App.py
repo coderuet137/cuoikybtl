@@ -240,7 +240,7 @@ def Show_Histogram1():
     root4 = tk.Toplevel()
     root4.geometry("1800x900")
     root4.configure(background='white')
-    root4.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root4.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root4,
@@ -567,7 +567,7 @@ def Equalization():
     root4 = tk.Toplevel()
     root4.geometry("1800x900")
     root4.configure(background='white')
-    root4.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root4.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root4,
@@ -771,7 +771,7 @@ def Brightness():
     root8 = tk.Toplevel()
     root8.geometry("1800x900")
     root8.configure(background='white')
-    root8.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root8.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root8,
@@ -1071,7 +1071,7 @@ def Tresholding():
     root8 = tk.Toplevel()
     root8.geometry("1800x900")
     root8.configure(background='white')
-    root8.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root8.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root8,
@@ -1334,7 +1334,7 @@ def Robertz():
     root8 = tk.Toplevel()
     root8.geometry("1800x900")
     root8.configure(background='white')
-    root8.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root8.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root8,
@@ -1778,7 +1778,7 @@ def Prewitt():
     root8 = tk.Toplevel()
     root8.geometry("1800x900")
     root8.configure(background='white')
-    root8.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root8.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root8,
@@ -2424,7 +2424,7 @@ def Sobel():
     root8 = tk.Toplevel()
     root8.geometry("1800x900")
     root8.configure(background='white')
-    root8.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root8.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root8,
@@ -3096,7 +3096,7 @@ def USM():
     root8 = tk.Toplevel()
     root8.geometry("1800x900")
     root8.configure(background='white')
-    root8.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root8.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root8,
@@ -3474,7 +3474,7 @@ def SAP():
     root8 = tk.Toplevel()
     root8.geometry("1800x900")
     root8.configure(background='white')
-    root8.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root8.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root8,
@@ -3705,7 +3705,7 @@ def GNoise():
     root8 = tk.Toplevel()
     root8.geometry("1800x900")
     root8.configure(background='white')
-    root8.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root8.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root8,
@@ -3916,7 +3916,7 @@ def Canny():
     root8 = tk.Toplevel()
     root8.geometry("1800x900")
     root8.configure(background='white')
-    root8.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root8.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root8,
@@ -4165,7 +4165,7 @@ def AT():
     root8 = tk.Toplevel()
     root8.geometry("1800x900")
     root8.configure(background='white')
-    root8.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root8.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root8,
@@ -4588,7 +4588,7 @@ def OT():
     root8 = tk.Toplevel()
     root8.geometry("1800x900")
     root8.configure(background='white')
-    root8.title("VNU - UET - GROUP 16 - NGUYEN KHAC KIEN, BUI DUC ANH, TRAN HOANG HUAN")
+    root8.title("VNU - 21021586 - NGUYEN XUONG HIEU")
 
     frame1 = tk.Frame(
         master=root8,
