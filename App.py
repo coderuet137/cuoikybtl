@@ -4874,7 +4874,7 @@ label.bind('<Configure>', resize_image)
 label.pack(fill=tk.BOTH, expand = 'YES')
 
 # Đặt tiêu đề cho cửa sổ
-root1.title("VNU-UET - Group 16 - Image Processing Programme")
+root1.title("VNU-UET - Nguyen Xuong Hieu- Image Processing Programme")
 
 # Tạo thanh menu cho cửa sổ
 menubar1 = tk.Menu(root1)
